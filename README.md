@@ -93,19 +93,19 @@ Due to GitHub's file size limits, the full cleaned dataset has been uploaded to 
 amex-default-risk/
 │
 ├── data/
-│   └── train_sample_100k_cleaned.csv
+│   └── cleaned_dataset_link.md         # External link to cleaned 100k-row CSV
 │
 ├── sql/
-│   ├── amex_create_table.sql
-│   ├── amex_query_1.sql
-│   ├── amex_query_2.sql
-│   └── amex_query_3.sql
+│   ├── amex_create_table.sql           # Table schema setup
+│   ├── amex_query_1.sql                # Segment default risk analysis
+│   ├── amex_query_2.sql                # Early indicator analysis
+│   └── amex_query_3.sql                # Portfolio credit health analysis
 │
 ├── images/
-│   └── dashboard_preview.png
+│   └── dashboard_preview.png           # Tableau dashboard preview
 │
-├── README.md
-└── LICENSE
+├── README.md                           # Project documentation
+└── LICENSE                             # Repository license
 ```
 
 ---
@@ -113,5 +113,5 @@ amex-default-risk/
 ## 👋 About the Analyst
 
 **Jeremy Gutierrez**  
-Aspiring Data Analyst with a strong foundation in SQL and data storytelling. Background in healthcare and operations with experience communicating insights to cross-functional stakeholders.  
-[Connect on LinkedIn](https://www.linkedin.com/in/your-profile) • [View GitHub Portfolio](https://github.com/your-profile)
+Data Analyst with a strong foundation in SQL and data storytelling. Background in healthcare and operations with experience communicating insights to cross-functional stakeholders.  
+[Connect on LinkedIn](https://www.linkedin.com/in/jeremy-gutierrez-4502391bb/) • [View GitHub Portfolio](https://github.com/JZambrana1612) 
