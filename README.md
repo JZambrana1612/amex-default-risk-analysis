@@ -21,7 +21,7 @@ This dashboard addresses three strategic risk and customer profiling questions:
   - Risk trends across customer tenure and average transaction value
   - Indicators that change over time prior to default events
 
-> 🔗 [View the live dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)
+> 🔗 [View the live dashboard on Tableau Public](https://public.tableau.com/views/AmericanExpressDefaultRiskBehavioralInsightsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ![Dashboard Preview](images/dashboard_preview.png)
 
@@ -29,17 +29,17 @@ This dashboard addresses three strategic risk and customer profiling questions:
 
 ### ✅ Actionable Recommendations
 
-- **Monitor behavioral indicators like `D_39`, `P_2`, and `B_30` for early signs of risk.**
-  - *🛡 Risk Team Insight:* These can serve as triggers for internal alerts or preemptive outreach.
+- **🛡 Risk Team Insight:* These can serve as triggers for internal alerts or preemptive outreach.**
+  - *Monitor behavioral indicators like `D_39`, `P_2`, and `B_30` for early signs of risk.
+    
+- **💰 Finance Insight:* Supports refining credit exposure and limit management policies.**
+  - *Target customers with short tenure and low average spend for account review.
 
-- **Target customers with short tenure and low average spend for account review.**
-  - *💰 Finance Insight:* Supports refining credit exposure and limit management policies.
+- **📣 Marketing Insight:* Improve LTV by nurturing customer groups that show long-term potential.**
+  - *Build retention campaigns for low-risk, mid-tenure customers who show positive engagement metrics.
 
-- **Build retention campaigns for low-risk, mid-tenure customers who show positive engagement metrics.**
-  - *📣 Marketing Insight:* Improve LTV by nurturing customer groups that show long-term potential.
-
-- **Use pattern deviation as input into predictive models.**
-  - *🧠 Data Science Insight:* Indicators like volatility in `B_30` can enhance churn or risk prediction models.
+- **🧠 Data Science Insight:* Indicators like volatility in `B_30` can enhance churn or risk prediction models.**
+  - *Use pattern deviation as input into predictive models. 
 
 ---
 
