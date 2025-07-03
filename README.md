@@ -74,7 +74,7 @@ This dataset comes from the [Kaggle - Amex Default Prediction (Parquet Format)](
 ### 📁 Cleaned Dataset (Sample of 100,000 Rows)
 Due to GitHub's file size limits, the full cleaned dataset has been uploaded to Google Drive.
 
-🔗 [Download via Google Drive](./cleaned_dataset_link.md) 
+🔗 [Download via Google Drive](./data/cleaned_dataset_link.md) 
 
 ---
 
