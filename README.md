@@ -67,9 +67,14 @@ This dashboard addresses three strategic risk and customer profiling questions:
 
 ## 🔗 Data Source
 
-This dataset comes from the [Kaggle - Amex Default Prediction (Parquet Format)](https://www.kaggle.com/datasets/raddar/amex-data-integer-dtypes-parquet-format).  
-> Note: Values between 0.00–0.01 and 1.00–1.01 have been rounded to 0 and 1 respectively.  
-We used a 100,000-row sample from `train.parquet`, converted to CSV and cleaned prior to import.
+This dataset comes from the [Kaggle - Amex Default Prediction (Parquet Format)](https://www.kaggle.com/datasets/raddar/amex-data-integer-dtypes-parquet-format).
+
+> Kaggle Note: Float columns between 0.00–0.01 and 1.00–1.01 were rounded to 0 and 1 respectively for anonymization. This has been considered in the analysis.
+
+### 📁 Cleaned Dataset (Sample of 100,000 Rows)
+Due to GitHub's file size limits, the full cleaned dataset has been uploaded to Google Drive.
+
+🔗 [Download via Google Drive](./cleaned_dataset_link.md) 
 
 ---
 
