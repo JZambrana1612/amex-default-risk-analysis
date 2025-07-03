@@ -30,16 +30,16 @@ This dashboard addresses three strategic risk and customer profiling questions:
 ### ✅ Actionable Recommendations
 
 - **🛡 Risk Team Insight:* These can serve as triggers for internal alerts or preemptive outreach.**
-  - *Monitor behavioral indicators like `D_39`, `P_2`, and `B_30` for early signs of risk.
+  - Monitor behavioral indicators like `D_39`, `P_2`, and `B_30` for early signs of risk.
     
 - **💰 Finance Insight:* Supports refining credit exposure and limit management policies.**
-  - *Target customers with short tenure and low average spend for account review.
+  - Target customers with short tenure and low average spend for account review.
 
 - **📣 Marketing Insight:* Improve LTV by nurturing customer groups that show long-term potential.**
-  - *Build retention campaigns for low-risk, mid-tenure customers who show positive engagement metrics.
+  - Build retention campaigns for low-risk, mid-tenure customers who show positive engagement metrics.
 
 - **🧠 Data Science Insight:* Indicators like volatility in `B_30` can enhance churn or risk prediction models.**
-  - *Use pattern deviation as input into predictive models. 
+  - Use pattern deviation as input into predictive models. 
 
 ---
 
