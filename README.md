@@ -93,6 +93,7 @@ Due to GitHub's file size limits, the full cleaned dataset has been uploaded to 
 amex-default-risk/
 │
 ├── data/
+│   ├── data_source.md                  # Link and description of original Kaggle dataset
 │   └── cleaned_dataset_link.md         # External link to cleaned 100k-row CSV
 │
 ├── sql/
